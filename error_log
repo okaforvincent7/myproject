@@ -1,0 +1,286 @@
+[20-Jan-2021 04:59:11 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/royagtsm/vintechpcstore.com/vendor/symfony/translation/TranslatorInterface.php on line 24
+[20-Jan-2021 05:00:02 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/royagtsm/vintechpcstore.com/vendor/symfony/translation/TranslatorInterface.php on line 24
+[20-Jan-2021 05:02:42 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/royagtsm/vintechpcstore.com/vendor/symfony/translation/TranslatorInterface.php on line 24
+[20-Jan-2021 05:04:20 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/royagtsm/vintechpcstore.com/vendor/symfony/translation/TranslatorInterface.php on line 24
+[20-Jan-2021 05:06:27 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/royagtsm/vintechpcstore.com/vendor/symfony/translation/TranslatorInterface.php on line 24
+[20-Jan-2021 05:06:55 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/royagtsm/vintechpcstore.com/vendor/symfony/translation/TranslatorInterface.php on line 24
+[20-Jan-2021 05:08:15 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:08:31 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:08:42 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 00:12:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Composer\Autoload\includeFile() in /home/royagtsm/vintechpcstore.com/vendor/composer/ClassLoader.php:322
+Stack trace:
+#0 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#1 /home/royagtsm/vintechpcstore.com/bootstrap/app.php(14): spl_autoload_call('Illuminate\\Foun...')
+#2 /home/royagtsm/vintechpcstore.com/index.php(38): require_once('/home/royagtsm/...')
+#3 {main}
+  thrown in /home/royagtsm/vintechpcstore.com/vendor/composer/ClassLoader.php on line 322
+[20-Jan-2021 00:12:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Composer\Autoload\includeFile() in /home/royagtsm/vintechpcstore.com/vendor/composer/ClassLoader.php:322
+Stack trace:
+#0 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#1 /home/royagtsm/vintechpcstore.com/bootstrap/app.php(14): spl_autoload_call('Illuminate\\Foun...')
+#2 /home/royagtsm/vintechpcstore.com/index.php(38): require_once('/home/royagtsm/...')
+#3 {main}
+  thrown in /home/royagtsm/vintechpcstore.com/vendor/composer/ClassLoader.php on line 322
+[20-Jan-2021 00:12:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Composer\Autoload\includeFile() in /home/royagtsm/vintechpcstore.com/vendor/composer/ClassLoader.php:322
+Stack trace:
+#0 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#1 /home/royagtsm/vintechpcstore.com/bootstrap/app.php(14): spl_autoload_call('Illuminate\\Foun...')
+#2 /home/royagtsm/vintechpcstore.com/index.php(38): require_once('/home/royagtsm/...')
+#3 {main}
+  thrown in /home/royagtsm/vintechpcstore.com/vendor/composer/ClassLoader.php on line 322
+[20-Jan-2021 05:13:00 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:18:20 UTC] PHP Warning:  Uncaught ErrorException: require(/home/royagtsm/vintechpcstore.com/routes/install.php): failed to open stream: No such file or directory in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/royagtsm/...', 35, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(416): Illuminate\Routing\RouteFileRegistrar->register('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(374): Illuminate\Routing\Router->loadRoutes('/home/royagtsm/...')
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illumin in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[20-Jan-2021 05:18:20 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/royagtsm/vintechpcstore.com/routes/install.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[20-Jan-2021 05:22:02 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:22:04 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:22:07 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:22:54 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:22:57 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:23:00 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:23:40 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:23:47 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:24:35 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 05:24:35 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Jan-2021 13:17:55 Africa/Lagos] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'verification_status' of non-object in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php:28
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php(28): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/royagtsm/...', 28, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View. in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php on line 28
+[21-Jan-2021 10:47:38 Africa/Lagos] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'verification_status' of non-object in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php:28
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php(28): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/royagtsm/...', 28, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View. in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php on line 28
+[23-Jan-2021 13:55:58 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[23-Jan-2021 13:57:05 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[23-Jan-2021 13:57:10 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[23-Jan-2021 13:57:49 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[23-Jan-2021 13:58:42 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[23-Jan-2021 13:58:48 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/4d102e0175f56dc8f039250f9c9355319cefeff1.php(40): route('home')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#5 /home/royagtsm/v in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:16:22 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:16:33 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:16:43 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:18:11 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:18:20 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:19:11 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Mar-2021 18:19:40 Africa/Lagos] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [supportpolicy] not defined. in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('supportpolicy', Array, true)
+#1 /home/royagtsm/vintechpcstore.com/storage/framework/views/88fc6b1d201cb4c57429333b00f4705fee565bb5.php(17): route('supportpolicy')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', in /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[20-Oct-2021 18:15:30 Africa/Lagos] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'verification_status' of non-object in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php:28
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php(28): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/royagtsm/...', 28, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View. in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php on line 28
+[06-Nov-2021 13:07:33 Africa/Lagos] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'verification_status' of non-object in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php:28
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php(28): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/royagtsm/...', 28, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View. in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php on line 28
+[07-Dec-2021 06:15:31 Africa/Lagos] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'verification_status' of non-object in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php:28
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php(28): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/royagtsm/...', 28, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View. in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php on line 28
+[08-Dec-2021 15:33:44 Africa/Lagos] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'verification_status' of non-object in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php:28
+Stack trace:
+#0 /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php(28): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/royagtsm/...', 28, Array)
+#1 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/royagtsm/...')
+#2 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/royagtsm/...', Array)
+#3 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/royagtsm/...', Array)
+#4 /home/royagtsm/vintechpcstore.com/vendor/laravel/framework/src/Illuminate/View/View. in /home/royagtsm/vintechpcstore.com/storage/framework/views/7cc5020f4af6fe2fd47c36cc2407df60030ad502.php on line 28
